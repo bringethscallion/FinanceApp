@@ -25,6 +25,7 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
     // First useless comment
+    // Just another useless comment
 }
 
 @end
